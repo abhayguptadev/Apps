@@ -8,7 +8,7 @@ You can download the latest APK files from the links below. Google Play Store li
 
 | App               | Download APK      | Play Store    |
 | ----------------- | ----------------- | ------------- |
-| **DocPocket**     | [Download](https://github.com/abhayguptadev/Apps/releases/download/V.1/DocPocket.apk)  | ⏳ Coming Soon |
+| **DocPocket**     | [Download](https://github.com/abhayguptadev/Apps/releases/download/V.1.1/DocumentPocket.apk)  | ⏳ Coming Soon |
 | **MathSphere**    | [Download](https://github.com/abhayguptadev/MathSphere/releases/download/v.1/MathSphere.apk) | ⏳ Coming Soon |
 
 ## 📌 Notes
