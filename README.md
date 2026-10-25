@@ -118,4 +118,4 @@ If you find an application useful, please consider giving this repository a star
 
 Your support helps more developers discover these projects and motivates continued development.
 
-**Explore. Build. Improve. Repeat.**
+**Building. Deploying. Improving**
