@@ -20,8 +20,8 @@ Whether you're looking for a document manager, mathematics utility app, or multi
 
 | Application | Platform | Description | Download / Demo |
 |---|---|---|---|
-| **DocPocket** | Android | A document management app for organizing files with categories, search, and pinned documents. | [Download APK](PASTE_YOUR_EXISTING_DOCPocket_APK_LINK_HERE) |
-| **MathSphere** | Android | A mathematics utility app designed to make calculations and mathematical tasks easier. | [Download APK](PASTE_YOUR_EXISTING_MATHSPHERE_APK_LINK_HERE) |
+| **DocPocket** | Android | A document management app for organizing files with categories, search, and pinned documents. | [Download APK](https://github.com/abhayguptadev/Apps/releases/download/V.1.1/DocumentPocket.apk) |
+| **MathSphere** | Android | A mathematics utility app designed to make calculations and mathematical tasks easier. | [Download APK](https://github.com/abhayguptadev/MathSphere/releases/download/v.1/MathSphere.apk) |
 | **Skribbl** | Web | A multiplayer drawing and guessing game that you can play in your browser. | [Play Online](https://skribbl-game-sepia.vercel.app/) · [Source Code](https://github.com/abhayguptadev/skribbl_clone) |
 
 > **Note:** Replace the two APK placeholders above with the exact download URLs already present in your current README before publishing.
