@@ -1,6 +1,6 @@
 # Apps by Abhay Gupta
 
-**Discover Android Apps, Flutter Projects, APK Downloads, and Web Applications.**
+**Discover Android Apps, Flutter Projects, APK Downloads, WIndows Desktop Apps and Web Applications.**
 
 Welcome to **Apps by Abhay Gupta**, a collection of mobile applications and web projects built to solve practical problems. Explore Android apps, download available APK releases, try live demos, and discover projects developed using Flutter, Dart, Python, and modern web technologies.
 
